@@ -6,7 +6,7 @@
 
 ** · Builder · Self-Hosting Enthusiast**
 
-I work at the intersection of **learning, technology, and operations** — and build practical, self-hosted tools that solve everyday problems.
+I build practical, self-hosted applications, automation workflows, and tools that solve everyday problems.
 ة.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ThamerLab-181717?logo=github&logoColor=white)](https://github.com/ThamerLab)
@@ -20,7 +20,6 @@ I work at the intersection of **learning, technology, and operations** — and b
 - **Self-hosted applications** — Docker, Portainer, Proxmox LXC and local-first utilities.
 - **Automation and integrations** — workflows for home, productivity, and operations.
 - **Practical web applications** — tools with usable interfaces and deployment documentation.
-- **Digital learning experiences** — connecting operational needs with technology and knowledge management.
 
 ## Selected open-source projects
 
