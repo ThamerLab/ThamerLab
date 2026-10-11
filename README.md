@@ -4,11 +4,10 @@
 
 # Hi, I'm Thamer 👋
 
-**Digital Learning & Knowledge Management Leader · Builder · Self-Hosting Enthusiast**
+** · Builder · Self-Hosting Enthusiast**
 
 I work at the intersection of **learning, technology, and operations** — and build practical, self-hosted tools that solve everyday problems.
-
-**أهلًا!** مهتم بالتعليم الرقمي، تطوير الأنظمة، الأتمتة، وتجارب الاستضافة الذاتية. أحب أحوّل الأفكار إلى أدوات مفيدة قابلة للاستخدام والمشاركة.
+ة.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ThamerLab-181717?logo=github&logoColor=white)](https://github.com/ThamerLab)
 ![Focus](https://img.shields.io/badge/Focus-Self--Hosted%20%26%20Automation-0D9488)
