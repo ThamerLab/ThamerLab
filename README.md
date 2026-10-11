@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="ThamerLab — Digital Learning, Software & Self-Hosted Systems" />
+<img src="assets/thamerlab-banner-v2.svg" width="100%" alt="ThamerLab — Software, Self-Hosting and Automation" />
 
 # Hi, I'm Thamer 👋
 
-** · Builder · Self-Hosting Enthusiast**
+**Software Builder · Self-Hosting & Automation Enthusiast**
 
 I build practical, self-hosted applications, automation workflows, and tools that solve everyday problems.
-ة.
 
 [![GitHub](https://img.shields.io/badge/GitHub-ThamerLab-181717?logo=github&logoColor=white)](https://github.com/ThamerLab)
 ![Focus](https://img.shields.io/badge/Focus-Self--Hosted%20%26%20Automation-0D9488)
-![Learning](https://img.shields.io/badge/Domain-Digital%20Learning-2563EB)
+![Projects](https://img.shields.io/badge/Projects-Open%20Source-2563EB)
 
 </div>
 
